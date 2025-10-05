@@ -28,3 +28,5 @@ class LinkedList:
             self.head = node.next
         if node.next is not None:
             node.next.prev = node.prev
+
+# Test cases
