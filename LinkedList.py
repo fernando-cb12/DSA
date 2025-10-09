@@ -30,3 +30,10 @@ class LinkedList:
             node.next.prev = node.prev
 
 # Test cases
+"""node1 = Node(3)
+node2 = Node(2)
+LinkedL = LinkedList()
+LinkedL.insert(node1)
+LinkedL.insert(node2)
+
+print(LinkedL.search(2))"""
